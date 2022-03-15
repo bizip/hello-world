@@ -34,15 +34,11 @@ If you have live server vs code etension installed open this project with live s
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/bizip)
+- Twitter: [@twitterhandle](https://twitter.com/BizimunguPasca9)
+- LinkedIn: [LinkedIn](www.linkedin.com/in/bizimungu)
 
 ## 🤝 Contributing
 
