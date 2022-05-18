@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 100vh;
+}
+
+header div h1 {
+  position: absolute;
+  color: rgb(71, 7, 247);
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
